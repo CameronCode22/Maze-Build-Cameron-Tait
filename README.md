@@ -9,7 +9,7 @@ A code editor or IDE (Visual Studio recommended)
 Installation
 Clone the repository or download the project files.
 Open the project in your preferred code editor (Visual Studio recommended).
-Run the application
+Run the application.
 
 
 ## Usage
